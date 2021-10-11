@@ -506,7 +506,7 @@ div.log-in-fix{
         z-index: 1;
     }
 }
-@media (max-width:412px) {
+@media (max-width:432px) {
     div.home-das .details .details-img{
         
     }
